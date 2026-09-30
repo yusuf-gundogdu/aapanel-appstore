@@ -12,15 +12,12 @@
         {
             "m_version": "0",
             "s_version": [
-                "16.2",
-                "16.1",
-                "16.0",
-                "15.0",
-                "14.1"
+                "17.0",
+                "16.2"
             ]
         }
     ],
-    "appdesc": "LibreDB Studio 是一款基于浏览器的自托管数据库 IDE，采用 MIT 开源协议，支持 PostgreSQL、MySQL、MongoDB、Redis、ClickHouse 等 16 种数据库引擎，内置 OIDC 单点登录、RBAC 权限与查询审计日志。首次启动时管理员密码会输出到容器日志。",
+    "appdesc": "LibreDB Studio 是一款基于浏览器的自托管数据库 IDE，采用 MIT 开源协议，支持 PostgreSQL、MySQL、MongoDB、Redis、ClickHouse 等 18 种数据库引擎，内置 OIDC 单点登录、RBAC 权限与查询审计日志。首次启动时管理员密码会输出到容器日志。",
     "appstatus": 1,
     "icon": "",
     "sort": 22,
